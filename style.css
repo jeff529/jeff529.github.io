@@ -35,13 +35,25 @@ body {
     width: 100%;
     grid-template-columns: 3fr 2fr;
     grid-gap: 25px;
+
+
+    
+
 }
+
+/* Trying to make it responsive */
+
+@media (max-width:800px) {
+    .container {
+        display: block;
+    }
+}
+
 
 
 #tribute-info {
     text-align: justify;
     padding: 25px;
-    /* background-color: darkseagreen; */
 }
 
 blockquote {
@@ -53,14 +65,13 @@ blockquote {
 
 #timeline {
     padding: 25px;
-    /* background-color: pink; */
 }
 
 
 
 #tribute-link {
     margin-top: 75px;
-    
+    text-align: center;
 }
 
 #tribute-link a {
