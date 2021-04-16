@@ -3,6 +3,9 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+#header {
+    background-color: #9ac5df;
+}
 
 h1 {
     text-align: center; 
