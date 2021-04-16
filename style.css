@@ -8,13 +8,13 @@ body {
     background-color: #9ac5df;
     
     border-style: solid; 
-    border-width: 5px;
+    border-width: 2px;
     border-color: black;
-    border-radius: 15%;
+    border-radius: 7%;
     
     padding : 15px 0px 15px 0px;
     
-    margin: 15px 50px 35px 50px;
+    margin: 15px 75px 35px 75px;
 }
 
 h1 {
