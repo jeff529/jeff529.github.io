@@ -17,6 +17,13 @@ body {
     margin: 15px 75px 35px 75px;
 }
 
+
+#dailyLog p {
+    
+ color: blue;   
+}
+
+
 h1 {
     text-align: center; 
 }
