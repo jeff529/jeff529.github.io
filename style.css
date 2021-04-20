@@ -18,9 +18,13 @@ body {
 }
 
 
-#dailyLog p {
+#dailyLog  {
     
- color: blue;   
+ 
+}
+
+.dayLink {
+ text-align : center; 
  text-decoration: none;
 }
 
@@ -33,9 +37,7 @@ h3 {
     text-align: center;
 }
 
-p {
- text-align : center; 
-}
+
 
 
 footer {
