@@ -28,6 +28,7 @@ body {
 .dayLink {
  text-align : center; 
  text-decoration: none;
+ font-style: italic;
 }
 
 
