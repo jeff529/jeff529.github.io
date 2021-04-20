@@ -42,6 +42,22 @@ body {
     
 }
 
+.dayLink: hover {
+  animation-name: changeBackgroundColor;
+  animation-duration: 200ms;
+  animation-fill-mode: forwards; 
+  
+}
+
+@keyframes changeBackgroundColor {
+   
+    100% {
+        background-color: gray;
+    }
+    
+}
+
+
 
 h1 {
     text-align: center; 
