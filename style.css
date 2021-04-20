@@ -21,6 +21,7 @@ body {
 #dailyLog p {
     
  color: blue;   
+ text-decoration: none;
 }
 
 
