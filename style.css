@@ -30,10 +30,15 @@ body {
 .dayLink {
  text-align : center; 
  text-decoration: none;
+ 
  font-style: bold;
+ font-size: 150%;
     
  border-style: solid;
-    border-width: 1px;
+ border-width: 1px;
+    
+ padding: 4px;
+    
 }
 
 
