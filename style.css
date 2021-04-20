@@ -42,7 +42,7 @@ body {
     
 }
 
-.dayLink: hover {
+.dayLink:hover {
   animation-name: changeBackgroundColor;
   animation-duration: 200ms;
   animation-fill-mode: forwards; 
