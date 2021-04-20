@@ -23,7 +23,15 @@ body {
     border-style: solid; 
     border-width: 2px;
     
-   padding: 10px; 
+ 
+     padding: 10px; 
+    
+    /*CSS Grid*/
+    
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;   /* Displays the links in 3 columns of equal size. Will do 7 columns (for weeks) once I have enough data. */
+   /* grid-template-rows: 1fr 1fr 1fr; */
+   
  
 }
 
