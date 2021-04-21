@@ -12,7 +12,7 @@ body {
     border-color: black;
     /* border-radius: 7%; */
     
-    background-color: black;
+    
     
     padding : 15px 0px 15px 0px;
     
@@ -21,6 +21,8 @@ body {
 
 
 #dailyLog  {
+    
+   background-color: black;
     
     border-style: solid; 
     border-width: 2px;
