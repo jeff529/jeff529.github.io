@@ -41,11 +41,12 @@ body {
  
 }
 
-/*
+/* */  
+ 
 .month {
   grid-column-start: 1;
   grid-column-end: 8;
-*/
+}
 
 .dayLink {
  text-align : center; 
