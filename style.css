@@ -22,7 +22,7 @@ body {
 
 #dailyLog  {
     
-   background-color: lightgray;
+   background-color: white;
     
     border-style: solid; 
     border-width: 2px;
@@ -46,6 +46,11 @@ body {
 .month {
   grid-column-start: 1;
   grid-column-end: 8;
+  text-align: center;
+}
+
+.day {
+text-align: center;
 }
 
 .dayLink {
