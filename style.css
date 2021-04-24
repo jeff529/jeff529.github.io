@@ -8,8 +8,8 @@ body {
     background-color: #9ac5df;
     
     border-left-style: solid; 
-    border-left-width: 10px;
-    border-left-color: black;
+    border-left-width: 30px;
+    border-left-color: hsl(0, 0%, 30%);
     /* border-radius: 7%; */
     
     
