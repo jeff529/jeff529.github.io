@@ -35,7 +35,7 @@ body {
     /*CSS Grid*/
     
    display: grid;
-   grid-template-columns: 1fr 1fr 1fr;   /* Displays the links in 3 columns of equal size. Will do 7 columns (for weeks) once I have enough data. */
+   grid-template-columns: repeat(7, 1fr);   /* Displays the links in 7 columns of equal size. */
    /* grid-template-rows: 1fr 1fr 1fr; */
    
  
