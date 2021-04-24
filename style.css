@@ -53,7 +53,7 @@ body {
 text-align: center;
 }
 
-.startDay {
+#startDay {
  grid-column-start: 4; 
  grid-column-end: 5;
 }
