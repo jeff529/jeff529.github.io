@@ -125,8 +125,12 @@ footer {
     padding: 5px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1000px) {
   body {
     background-color: olive;
   }
+    
+  .day {
+     display: none;  
+    }
 }
