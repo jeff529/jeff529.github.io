@@ -124,3 +124,9 @@ footer {
     font-style: bold;
     padding: 5px;
 }
+
+@media screen and (max-width: 600px) {
+  body {
+    background-color: olive;
+  }
+}
