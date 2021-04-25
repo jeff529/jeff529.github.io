@@ -127,7 +127,7 @@ footer {
 
 @media screen and (max-width: 1000px) {
   body {
-    background-color: hsl(60, 100%, 15%);
+    background-color: hsl(55%, 100%, 25%);
   }
     
   .day {
