@@ -22,7 +22,7 @@ body {
 
 #dailyLog  {
     
-   background-color: whitesmoke;
+   background-color: #E2F4FF;
     
    /*
     border-style: solid; 
@@ -63,7 +63,7 @@ body {
 .day {
 text-align: center;
 font-size: 24px;
-background-color: #E2F4FF);
+background-color: #E2F4FF;
     
 padding: 0;
     
