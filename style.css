@@ -55,7 +55,7 @@ body {
     
  border : 1px dotted black; 
     
-  background-color: hsl(0, 0%, 65%);
+  background-color: #E2F4FF;
     
  padding: 0;
 }
@@ -63,7 +63,7 @@ body {
 .day {
 text-align: center;
 font-size: 24px;
-background-color: hsl(0, 0%, 75%);
+background-color: #E2F4FF);
     
 padding: 0;
     
@@ -127,7 +127,7 @@ footer {
 
 @media screen and (max-width: 1000px) {
   body {
-    background-color: hsl(55%, 100%, 25%);
+    background-color: #E2F4FF;
   }
     
   .day {
