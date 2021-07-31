@@ -53,7 +53,7 @@ body {
     
   font-size: 28px;
     
- border : 1px dotted black; 
+ /* border : 1px dotted black; */
     
   background-color: #E2F4FF;
     
@@ -67,7 +67,7 @@ background-color: #E2F4FF;
     
 padding: 0;
     
-border : 1px dotted black; 
+/* border : 1px dotted black; */
 }
 
 #startDay {
